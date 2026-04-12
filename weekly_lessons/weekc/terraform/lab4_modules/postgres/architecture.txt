@@ -1,0 +1,9 @@
+Internet
+   ↓
+WAF (Armor)
+   ↓
+HTTPS LB
+   ↓
+MIG (auto-scaling)
+   ↓
+Postgres (Cloud SQL, private)
